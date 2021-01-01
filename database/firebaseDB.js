@@ -8,7 +8,7 @@ var firebaseConfig = {
     storageBucket: "storageBucket",
     messagingSenderId: "messagingSenderId",
     appId: "appId",
-    measurementId: "G-ZNNET9SQ97"
+    measurementId: "measurementId"
     
   };
 
